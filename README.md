@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Angelslive I do anything techy 
-- 👀 I’m interested in ... Video editing, art, python and 3D modeling
-- 🌱 I’m currently learning ... Python, french, html and 3D modeling 
+- 👋 Hi, I’m @Angelslive I do a lot of different tech things  
+- 👀 I’m interested in ... Video editing, art, python, m32 and Grandma3 
+- 🌱 I’m currently learning ... Python, french, html and Grandma3
 - 💞️ I’m looking to collaborate on ... Anything 
 - 📫 How to reach me ... Discord Angels#7614 or twitter @Angelslive_
 
